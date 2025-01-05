@@ -8,9 +8,7 @@ This project was designed to find the humidity level in my 3D printing filament 
 
 ![Result of the project](/HardwarePhoto.png "Hardware of the project")
 
----
-
-## Hardware Setup
+## Hardware Setup
 
 ### Required Components:
 - 1 x Arduino Uno (or compatible board)
