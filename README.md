@@ -6,7 +6,7 @@ This is a simple Arduino-based project that uses a DHT11 (or DHT22) sensor to mo
 
 This project was designed to find the humidity level in my 3D printing filament storage box to ensure that the humidity in the air is not impacting the printing material.
 
-![Result of the project](/SmartTempHumidityMonitor.ino "Hardware of the project")
+![Result of the project](/HardwarePhoto.png "Hardware of the project")
 
 ---
 
